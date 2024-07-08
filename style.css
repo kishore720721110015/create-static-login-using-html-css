@@ -1,0 +1,43 @@
+form{
+    max-width: 250px;
+    margin: 0 auto;
+    padding: 40px;
+    border: 10px solid #9885d8;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+label{
+    display: block;
+    margin-bottom: 0px;
+}
+img{
+    padding-left: 100px;
+}
+.for2{
+    padding-top: 10%;
+}
+
+input[type="text"],select{
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+input[type="password"],select{
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.but{
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid black ;
+    background-color: #9885d8;
+    border-radius: 5px;
+}
+.but:hover{
+    background-color:  #9885d8;
+}
